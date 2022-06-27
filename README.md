@@ -4,7 +4,7 @@
 * Author: William Setiawan
 
 ## Sub-projects
-Most sub-projects listed below are created through following the [SplashKit Guides](https://splashkit.io/articles/guides/) and are listed within the **guide** directory.
+Most sub-projects listed below are created through following the [SplashKit Guides](https://splashkit.io/articles/guides/) and are listed within the **guides** directory.
 
 ***guides/***
 * starter_drawing: (https://splashkit.io/articles/guides/tags/starter/get-started-drawing/)
