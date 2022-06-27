@@ -5,7 +5,7 @@
 ### Programs ###
 *.o
 *.out
-a.out
+a.exe
 
 ### Splashkit ###
 .splashkit-download
