@@ -2,6 +2,7 @@
 
 * Project: Testing Repository for SplashKit library
 * Author: William Setiawan
+* Co-Authors: Jake Renzella, Zac S
 
 ## Sub-projects
 Most sub-projects listed below are created through following the [SplashKit Guides](https://splashkit.io/articles/guides/) and are listed within the **guides** directory.
