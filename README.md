@@ -1,5 +1,4 @@
 # Overview
-
 * Project: Testing Repository for SplashKit library
 * Author: William Setiawan
 * Co-Authors: Jake Renzella, Zac S
@@ -11,7 +10,7 @@ Most sub-projects listed below are created through following the [SplashKit Guid
 * starter_drawing: (https://splashkit.io/articles/guides/tags/starter/get-started-drawing/)
 
 ***personal/***
-* cs_chardle_gui: A GUI interface for assignment 0 of COMP1511 22T2.
+* gui_chardle: A GUI interface for assignment 0 (*cs_chardle*) of UNSW COMP1511 22T2.
 
 # Setup
 This project requires installation of the [SplashKit library](https://splashkit.io/articles/installation/).
