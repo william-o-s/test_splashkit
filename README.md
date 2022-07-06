@@ -4,14 +4,13 @@
 * Co-Authors: Jake Renzella, Zac S
 
 ## Sub-projects
-Sub-projects listed under the **guides** directory are created through following [SplashKit's Guides](https://splashkit.io/articles/guides/).
 
 ### guides/
+Sub-projects listed under the **guides** directory are created through following [SplashKit's Guides](https://splashkit.io/articles/guides/).
 * starter_drawing: (https://splashkit.io/articles/guides/tags/starter/get-started-drawing/)
 
-Sub-projects listed under the **personal** directory are created for the individual interests.
-
 ### personal/
+Sub-projects listed under the **personal** directory are created for the individual interests.
 * gui_chardle: A GUI interface for assignment 0 (*cs_chardle*) of UNSW COMP1511 22T2. Presented during the Week 6 bonus lecture (6/7/2022).
 
 # Setup
